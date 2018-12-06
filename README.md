@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+## Hand-on Devops with Nexus-IQ / Jenkins and Docker Tooling
 
 You can use the [editor on GitHub](https://github.com/kamel2k/handsonlab-devops/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Summary
+
+A practical workshop focuses on the implementation of DevOps tooling for :
+- Understand the Sonatype Nexus ecosystem in its software supply cahin with Nexus LifeCycle
+- Understand the DevOps life cycle with associated tooling and specifically designed for this workshop (Jenkins, Nexus-IQ, Gogs, etc.)
+- Define and implement a powerful pipeline of continuous deployment with associated tooling
+- Using the docker container combined with the Vagrant solution to automate its software deployment chain
+- Implement DevSecOps with Nexus LifeCycle and implement a security strategy for its software components
+
+### Prerequisites
+
+- Memory : 6GB
+- Disk : 10 GB
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
